@@ -191,6 +191,8 @@ class StackView extends React.Component {
       headerOptions.children = children;
     }
 
+    headerOptions.topInsetEnabled = options.headerTopInsetEnabled
+
     return <ScreenStackHeaderConfig {...headerOptions} />;
   };
 
