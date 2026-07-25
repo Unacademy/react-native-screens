@@ -5934,7 +5934,7 @@ react-native-safe-area-context@^3.1.1:
   integrity sha512-Iqb41OT5+QxFn0tpTbbHgz8+3VU/F9OH2fTeeoU7oZCzojOXQbC6sp6mN7BlsAoTKhngWoJLMcSosL58uRaLWQ==
 
 "react-native-screens@file:..":
-  version "2.9.0"
+  version "2.11.0"
 
 react-native@0.63.0:
   version "0.63.0"
