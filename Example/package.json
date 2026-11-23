@@ -20,7 +20,7 @@
     "react-native-screens": "file:.."
   },
   "devDependencies": {
-    "@babel/core": "^7.10.5",
+    "@babel/core": "^7.29.6",
     "@babel/runtime": "^7.10.5",
     "@react-native-community/eslint-config": "^1.1.0",
     "babel-jest": "^25.1.0",
